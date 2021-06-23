@@ -2,7 +2,7 @@
 
 <hr>
 
-<h3> 📋 This repository will be successively supplemented with new examples of **heuristic algorithms** implemented in python. Stay tuned, because the work is underway! </h3>
+<h3> 📋 This repository will be successively supplemented with new examples of heuristic algorithms implemented in python. Stay tuned, because the work is underway! </h3>
 
 <hr>
 
